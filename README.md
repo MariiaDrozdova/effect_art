@@ -1,1 +1,1 @@
-# effect_art
+# Transverse project 2019-2020
