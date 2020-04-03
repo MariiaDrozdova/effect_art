@@ -54,9 +54,11 @@ In the figure you can see the illustration of how a "sliding" box move on the im
 
 See the examples of generated animations below:
 
+![](images/abstract.gif)
+
 ![](images/figurative.gif)
 
-![](images/abstract.gif)
+"The Harvesters" by Pieter Bruegel the Elder
 
 ##Limitations
 
