@@ -70,3 +70,8 @@ Though first parts of the pipeline such as style can be used for a reduced image
 
 For now, we use only two styles classification to control the way of choosing points of 15 interest. 
 Some of the styles are though a mix of both and, thus, it might be interesting to combine both of them or to come up with new ones. The absence of a data base with labeled points of interest did not allow us to evaluate on a big data set the performance of our POI detection. Thus, we are limited only by exhaustive analysis. It may be interesting to train YOLO specifically on paintings, or maybe to have several YOLO for different styles.
+
+##Usage
+
+Run Abstract Paintings.ipynb to create a fast animation from an abstraxt painting.
+Run Realistic Paintings.ipynb to create a fast animation from a figurative painting. 
